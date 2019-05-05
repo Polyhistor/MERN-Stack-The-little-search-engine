@@ -13,7 +13,7 @@ Browse to [http://localhost:3000](http://localhost:3000)
 
 - 'npm run dev' will concurrently run two servers one to serve as the web server and the other as an API server.
 - Data is coming from Mongo Atlas
-- All the data from the frontend to backend has been done by a proxy.
+- All the traffic from the frontend to backend goes through a proxy.
 
 ## Testing
 
