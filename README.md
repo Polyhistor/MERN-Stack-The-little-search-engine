@@ -18,7 +18,7 @@ Browse to [http://localhost:3000](http://localhost:3000)
 ## Testing
 
 - Jest and Enzyme (needs improvement)
-- Minor snapshot tests are available too (needs improvement)
+- Minor frontend tests are available too (needs improvement)
 
 ## Design considerations
 
