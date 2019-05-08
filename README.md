@@ -7,7 +7,7 @@ npm install
 npm run dev
 ```
 # Notice: 
-Make sure you proceed to the folder '/frontend' and you run npm install in there two. That's the web server. 
+Make sure you proceed to the folder '/frontend' and you run npm install in there too. That's the web server. 
 Browse to [http://localhost:3000](http://localhost:3000)
 
 ## Important
